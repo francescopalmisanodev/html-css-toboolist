@@ -4,3 +4,15 @@
     padding: 0;
     font-family: serif;
 }
+header {
+    margin:0.5% 1%;
+}
+img{
+    vertical-align: middle;
+}
+h1{
+    display: inline-block;
+    font-weight: bold;
+    vertical-align: middle;
+    font-size:40px;
+}
