@@ -3,9 +3,19 @@
     margin: 0;
     padding: 0;
     font-family: serif;
+    background-color: white;
+}
+body {
+    width: 1280px;
+    margin: 0 auto;
+    background-color: #737575;
 }
 header {
     margin:0.5% 1%;
+}
+.container{
+    margin:3% 10%;
+    background-color:transparent;
 }
 img{
     vertical-align: middle;
@@ -15,4 +25,25 @@ h1{
     font-weight: bold;
     vertical-align: middle;
     font-size:40px;
+}
+.buttonsection{
+    padding:2% 4% 1.5%;
+    border-top-right-radius: 3%;
+    border-top-left-radius: 3%;
+    border: 2px solid #737575;
+
+}
+.button{
+    padding:0.5% 1%;
+    border-radius: 5%;
+    font-size:13px;
+}
+.bgblue{
+    background-color: #47ADF1;
+    color: #fff;
+}
+.bgwhite{
+    background-color: #fff;
+    color: #c2c5c7;
+    border: 1px solid #c2c5c7;
 }
